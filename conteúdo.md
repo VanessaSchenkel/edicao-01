@@ -56,7 +56,7 @@
 
 ### O que é
 
-Ferramenta de versionamento distribuído de código. Permite salvar o código produzido e integrar o trabalho de diferentes colaboradores, permitindo criar diferentes versões do mesmo código e uni-las quanso necessário.
+Ferramenta de versionamento distribuído de código. Permite salvar o código produzido e integrar o trabalho de diferentes colaboradores, permitindo criar diferentes versões do mesmo código e uni-las quando necessário.
 
 ### Remoto vs Local
 
@@ -316,7 +316,7 @@ Mago presto = new Mago("Presto", 50, 20, 1000f);
 
 ### Tipo Valor
 
-- Tipos valor existem por sí só e são únicos, gerando cópias quando atribuídos a novas variáveis. Tipos valor são tipos primitivos
+- Tipos valor existem por si só e são únicos, gerando cópias quando atribuídos à novas variáveis. Tipos valor são tipos primitivos
 - Os tipos primitivos são boolean, byte, char, short, int, long, float e double
 - As variáveis de instância de tipo primitivo são inicializadas por padrão, as variáveis dos tipos byte, char, short, int, long, float e double são inicializadas como 0, e as variáveis do tipo boolean são inicializadas como false.
 
