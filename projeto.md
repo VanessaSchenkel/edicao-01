@@ -138,7 +138,7 @@ Vamos construir uma aplicação como o Tinder, porém baseada em gostos em comum
 - Listar fotos de um usuário
 - Deletar foto de um usuário
 
-### Bônu
+### Bônus
 
 - Obter o usuário com mais características em comum que já não tenha um match ou dislike dentro de uma distância de 10km
 
